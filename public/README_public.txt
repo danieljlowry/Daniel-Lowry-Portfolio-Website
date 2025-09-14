@@ -1,0 +1,3 @@
+README_public
+
+The purpose of this folder is to hold static files (favicon, images, etc).
